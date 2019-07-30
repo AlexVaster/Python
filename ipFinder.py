@@ -5,7 +5,6 @@ from tkinter import *
 listOfLogs = []
 listOfAll = {}
 listOfCounts = {}
-pritn('hello')
 
 def choose_file():
     selector = listbox1.curselection()
