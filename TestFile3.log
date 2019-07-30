@@ -1,0 +1,152 @@
+[00:26:13] [Craft Scheduler Thread - 61/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[00:56:13] [Craft Scheduler Thread - 62/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[01:26:13] [Craft Scheduler Thread - 63/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 4ms.
+[01:56:13] [Craft Scheduler Thread - 64/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[02:26:13] [Craft Scheduler Thread - 65/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[02:56:13] [Craft Scheduler Thread - 66/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[03:26:13] [Craft Scheduler Thread - 67/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[03:56:13] [Craft Scheduler Thread - 68/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[04:26:13] [Craft Scheduler Thread - 69/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[04:56:13] [Craft Scheduler Thread - 70/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[05:26:13] [Craft Scheduler Thread - 71/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[05:56:13] [Craft Scheduler Thread - 72/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[06:26:13] [Craft Scheduler Thread - 73/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[06:56:13] [Craft Scheduler Thread - 74/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[07:26:13] [Craft Scheduler Thread - 75/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[07:56:13] [Craft Scheduler Thread - 76/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[08:26:13] [Craft Scheduler Thread - 77/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[08:56:13] [Craft Scheduler Thread - 78/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[09:26:13] [Craft Scheduler Thread - 79/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[09:56:13] [Craft Scheduler Thread - 80/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[10:26:13] [Craft Scheduler Thread - 81/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[10:43:25] [User Authenticator #13/INFO]: UUID of player gredik80 is ef960771-fc65-380b-92cd-df9f63107ea4
+[10:43:25] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@43b4dfca[id=ef960771-fc65-380b-92cd-df9f63107ea4,name=gredik80,properties={},legacy=false] (/93.170.15.121:64370): You are not whitelisted on this server!
+[10:43:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@43b4dfca[id=ef960771-fc65-380b-92cd-df9f63107ea4,name=gredik80,properties={},legacy=false] (/93.170.15.121:64370) lost connection: You are not whitelisted on this server!
+[10:43:31] [User Authenticator #14/INFO]: UUID of player gredik80 is ef960771-fc65-380b-92cd-df9f63107ea4
+[10:43:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c0359f[id=ef960771-fc65-380b-92cd-df9f63107ea4,name=gredik80,properties={},legacy=false] (/93.170.15.121:56568): You are not whitelisted on this server!
+[10:43:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c0359f[id=ef960771-fc65-380b-92cd-df9f63107ea4,name=gredik80,properties={},legacy=false] (/93.170.15.121:56568) lost connection: You are not whitelisted on this server!
+[10:56:13] [Craft Scheduler Thread - 82/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 6ms.
+[11:26:13] [Craft Scheduler Thread - 83/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[11:56:13] [Craft Scheduler Thread - 84/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[11:58:17] [User Authenticator #15/INFO]: UUID of player ilya00000 is b6206d45-a4f2-3947-824a-5cdd4c8ab2bd
+[11:58:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3e860e25[id=b6206d45-a4f2-3947-824a-5cdd4c8ab2bd,name=ilya00000,properties={},legacy=false] (/77.93.109.43:62919): You are not whitelisted on this server!
+[11:58:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e860e25[id=b6206d45-a4f2-3947-824a-5cdd4c8ab2bd,name=ilya00000,properties={},legacy=false] (/77.93.109.43:62919) lost connection: You are not whitelisted on this server!
+[11:58:32] [User Authenticator #16/INFO]: UUID of player ilya00000 is b6206d45-a4f2-3947-824a-5cdd4c8ab2bd
+[11:58:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@759feced[id=b6206d45-a4f2-3947-824a-5cdd4c8ab2bd,name=ilya00000,properties={},legacy=false] (/77.93.109.43:62999): You are not whitelisted on this server!
+[11:58:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@759feced[id=b6206d45-a4f2-3947-824a-5cdd4c8ab2bd,name=ilya00000,properties={},legacy=false] (/77.93.109.43:62999) lost connection: You are not whitelisted on this server!
+[12:26:13] [Craft Scheduler Thread - 85/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[12:56:13] [Craft Scheduler Thread - 86/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[12:59:56] [User Authenticator #17/INFO]: UUID of player ClaireChuang is aff6cda9-6bcd-314a-8cf9-0a4dbcb5af07
+[12:59:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@68ee8be6[id=aff6cda9-6bcd-314a-8cf9-0a4dbcb5af07,name=ClaireChuang,properties={},legacy=false] (/213.24.132.37:60756): You are not whitelisted on this server!
+[12:59:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@68ee8be6[id=aff6cda9-6bcd-314a-8cf9-0a4dbcb5af07,name=ClaireChuang,properties={},legacy=false] (/213.24.132.37:60756) lost connection: You are not whitelisted on this server!
+[13:26:13] [Craft Scheduler Thread - 87/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[13:56:13] [Craft Scheduler Thread - 88/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[14:26:13] [Craft Scheduler Thread - 89/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[14:39:25] [User Authenticator #18/INFO]: UUID of player MRkirlikocc is 534d0e1b-92b9-37f6-afaf-b1e7b2ff226f
+[14:39:25] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1171d360[id=534d0e1b-92b9-37f6-afaf-b1e7b2ff226f,name=MRkirlikocc,properties={},legacy=false] (/188.170.82.70:41921): You are not whitelisted on this server!
+[14:39:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@1171d360[id=534d0e1b-92b9-37f6-afaf-b1e7b2ff226f,name=MRkirlikocc,properties={},legacy=false] (/188.170.82.70:41921) lost connection: You are not whitelisted on this server!
+[14:40:30] [User Authenticator #19/INFO]: UUID of player MRkirlikocc is 534d0e1b-92b9-37f6-afaf-b1e7b2ff226f
+[14:40:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@13181b8[id=534d0e1b-92b9-37f6-afaf-b1e7b2ff226f,name=MRkirlikocc,properties={},legacy=false] (/188.170.82.70:16088): You are not whitelisted on this server!
+[14:40:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@13181b8[id=534d0e1b-92b9-37f6-afaf-b1e7b2ff226f,name=MRkirlikocc,properties={},legacy=false] (/188.170.82.70:16088) lost connection: You are not whitelisted on this server!
+[14:54:13] [User Authenticator #20/INFO]: UUID of player Dazkareith is 3793b5fe-fee4-364c-bbfa-abb9fbbfa82a
+[14:54:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2d2009da[id=3793b5fe-fee4-364c-bbfa-abb9fbbfa82a,name=Dazkareith,properties={},legacy=false] (/95.158.38.49:56463): You are not whitelisted on this server!
+[14:54:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d2009da[id=3793b5fe-fee4-364c-bbfa-abb9fbbfa82a,name=Dazkareith,properties={},legacy=false] (/95.158.38.49:56463) lost connection: You are not whitelisted on this server!
+[14:56:13] [Craft Scheduler Thread - 90/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[15:26:13] [Craft Scheduler Thread - 91/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[15:32:09] [User Authenticator #21/INFO]: UUID of player zahkar is c8f63909-e6b4-3e57-98e4-02721c5be567
+[15:32:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@17718bbb[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50288): You are not whitelisted on this server!
+[15:32:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@17718bbb[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50288) lost connection: You are not whitelisted on this server!
+[15:32:14] [User Authenticator #22/INFO]: UUID of player zahkar is c8f63909-e6b4-3e57-98e4-02721c5be567
+[15:32:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b61a042[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50296): You are not whitelisted on this server!
+[15:32:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b61a042[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50296) lost connection: You are not whitelisted on this server!
+[15:33:18] [User Authenticator #23/INFO]: UUID of player zahkar is c8f63909-e6b4-3e57-98e4-02721c5be567
+[15:33:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@488ae515[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50398): You are not whitelisted on this server!
+[15:33:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@488ae515[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50398) lost connection: You are not whitelisted on this server!
+[15:33:26] [User Authenticator #24/INFO]: UUID of player zahkar is c8f63909-e6b4-3e57-98e4-02721c5be567
+[15:33:26] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c7e9c08[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50407): You are not whitelisted on this server!
+[15:33:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c7e9c08[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50407) lost connection: You are not whitelisted on this server!
+[15:33:40] [User Authenticator #25/INFO]: UUID of player zahkar is c8f63909-e6b4-3e57-98e4-02721c5be567
+[15:33:40] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4b9fa6fd[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50412): You are not whitelisted on this server!
+[15:33:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b9fa6fd[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50412) lost connection: You are not whitelisted on this server!
+[15:36:02] [User Authenticator #26/INFO]: UUID of player zahkar is c8f63909-e6b4-3e57-98e4-02721c5be567
+[15:36:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7257459e[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50448): You are not whitelisted on this server!
+[15:36:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@7257459e[id=c8f63909-e6b4-3e57-98e4-02721c5be567,name=zahkar,properties={},legacy=false] (/31.148.126.174:50448) lost connection: You are not whitelisted on this server!
+[15:56:13] [Craft Scheduler Thread - 92/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[16:26:13] [Craft Scheduler Thread - 93/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[16:56:02] [User Authenticator #27/INFO]: UUID of player raudov is cc90dd07-fca4-3da1-a809-f6b1971318f8
+[16:56:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@45ad7ca7[id=cc90dd07-fca4-3da1-a809-f6b1971318f8,name=raudov,properties={},legacy=false] (/95.46.138.126:2158): You are not whitelisted on this server!
+[16:56:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@45ad7ca7[id=cc90dd07-fca4-3da1-a809-f6b1971318f8,name=raudov,properties={},legacy=false] (/95.46.138.126:2158) lost connection: You are not whitelisted on this server!
+[16:56:13] [Craft Scheduler Thread - 94/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[16:56:23] [User Authenticator #28/INFO]: UUID of player raudov is cc90dd07-fca4-3da1-a809-f6b1971318f8
+[16:56:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c09a19d[id=cc90dd07-fca4-3da1-a809-f6b1971318f8,name=raudov,properties={},legacy=false] (/95.46.138.126:2062): You are not whitelisted on this server!
+[16:56:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c09a19d[id=cc90dd07-fca4-3da1-a809-f6b1971318f8,name=raudov,properties={},legacy=false] (/95.46.138.126:2062) lost connection: You are not whitelisted on this server!
+[16:57:47] [User Authenticator #29/INFO]: UUID of player enitonL is 75c5beb3-52fa-3a9c-a4e7-667636a14173
+[16:57:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b1b50b9[id=75c5beb3-52fa-3a9c-a4e7-667636a14173,name=enitonL,properties={},legacy=false] (/81.27.60.88:55231): You are not whitelisted on this server!
+[16:57:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b1b50b9[id=75c5beb3-52fa-3a9c-a4e7-667636a14173,name=enitonL,properties={},legacy=false] (/81.27.60.88:55231) lost connection: You are not whitelisted on this server!
+[16:58:08] [User Authenticator #30/INFO]: UUID of player enitonL is 75c5beb3-52fa-3a9c-a4e7-667636a14173
+[16:58:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@699c97e9[id=75c5beb3-52fa-3a9c-a4e7-667636a14173,name=enitonL,properties={},legacy=false] (/81.27.60.88:55263): You are not whitelisted on this server!
+[16:58:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@699c97e9[id=75c5beb3-52fa-3a9c-a4e7-667636a14173,name=enitonL,properties={},legacy=false] (/81.27.60.88:55263) lost connection: You are not whitelisted on this server!
+[16:58:21] [User Authenticator #31/INFO]: UUID of player enitonL is 75c5beb3-52fa-3a9c-a4e7-667636a14173
+[16:58:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@71d15065[id=75c5beb3-52fa-3a9c-a4e7-667636a14173,name=enitonL,properties={},legacy=false] (/81.27.60.88:55279): You are not whitelisted on this server!
+[16:58:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@71d15065[id=75c5beb3-52fa-3a9c-a4e7-667636a14173,name=enitonL,properties={},legacy=false] (/81.27.60.88:55279) lost connection: You are not whitelisted on this server!
+[16:59:02] [User Authenticator #32/INFO]: UUID of player raudov is cc90dd07-fca4-3da1-a809-f6b1971318f8
+[16:59:02] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@c114c50[id=cc90dd07-fca4-3da1-a809-f6b1971318f8,name=raudov,properties={},legacy=false] (/95.46.138.126:2071): You are not whitelisted on this server!
+[16:59:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@c114c50[id=cc90dd07-fca4-3da1-a809-f6b1971318f8,name=raudov,properties={},legacy=false] (/95.46.138.126:2071) lost connection: You are not whitelisted on this server!
+[17:26:13] [Craft Scheduler Thread - 95/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[17:56:13] [Craft Scheduler Thread - 96/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[18:26:13] [Craft Scheduler Thread - 97/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[18:38:57] [User Authenticator #33/INFO]: UUID of player Serega210 is f931d810-b140-3df0-8c8a-26f2ca9ced4d
+[18:38:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@646904da[id=f931d810-b140-3df0-8c8a-26f2ca9ced4d,name=Serega210,properties={},legacy=false] (/91.122.231.74:32995): You are not whitelisted on this server!
+[18:38:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@646904da[id=f931d810-b140-3df0-8c8a-26f2ca9ced4d,name=Serega210,properties={},legacy=false] (/91.122.231.74:32995) lost connection: You are not whitelisted on this server!
+[18:56:13] [Craft Scheduler Thread - 98/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[19:26:13] [Craft Scheduler Thread - 99/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[19:56:13] [Craft Scheduler Thread - 100/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[20:15:54] [User Authenticator #34/INFO]: UUID of player vavavnage0102 is 9f62b491-b725-356b-8e5f-9a02973d29fb
+[20:15:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@311bd594[id=9f62b491-b725-356b-8e5f-9a02973d29fb,name=vavavnage0102,properties={},legacy=false] (/2.135.100.231:53843): You are not whitelisted on this server!
+[20:15:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@311bd594[id=9f62b491-b725-356b-8e5f-9a02973d29fb,name=vavavnage0102,properties={},legacy=false] (/2.135.100.231:53843) lost connection: You are not whitelisted on this server!
+[20:20:37] [User Authenticator #35/INFO]: UUID of player GrayHarmony is 75753b6e-85e2-3701-b054-5218934375ac
+[20:20:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7308a53e[id=75753b6e-85e2-3701-b054-5218934375ac,name=GrayHarmony,properties={},legacy=false] (/178.88.199.14:57542): You are not whitelisted on this server!
+[20:20:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@7308a53e[id=75753b6e-85e2-3701-b054-5218934375ac,name=GrayHarmony,properties={},legacy=false] (/178.88.199.14:57542) lost connection: You are not whitelisted on this server!
+[20:21:42] [User Authenticator #36/INFO]: UUID of player Zensune is 931512c9-cb45-3438-9a55-4e83d4d49880
+[20:21:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6af9e2ba[id=931512c9-cb45-3438-9a55-4e83d4d49880,name=Zensune,properties={},legacy=false] (/176.97.100.133:62503): You are not whitelisted on this server!
+[20:21:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@6af9e2ba[id=931512c9-cb45-3438-9a55-4e83d4d49880,name=Zensune,properties={},legacy=false] (/176.97.100.133:62503) lost connection: You are not whitelisted on this server!
+[20:21:51] [User Authenticator #37/INFO]: UUID of player GrayHarmony is 75753b6e-85e2-3701-b054-5218934375ac
+[20:21:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f24abfc[id=75753b6e-85e2-3701-b054-5218934375ac,name=GrayHarmony,properties={},legacy=false] (/178.88.199.14:57646): You are not whitelisted on this server!
+[20:21:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f24abfc[id=75753b6e-85e2-3701-b054-5218934375ac,name=GrayHarmony,properties={},legacy=false] (/178.88.199.14:57646) lost connection: You are not whitelisted on this server!
+[20:21:52] [User Authenticator #38/INFO]: UUID of player Dimulkapro is e27fe2ae-6cae-32f9-ae3f-90552463d0e4
+[20:21:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@60390567[id=e27fe2ae-6cae-32f9-ae3f-90552463d0e4,name=Dimulkapro,properties={},legacy=false] (/188.226.60.130:52136): You are not whitelisted on this server!
+[20:21:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@60390567[id=e27fe2ae-6cae-32f9-ae3f-90552463d0e4,name=Dimulkapro,properties={},legacy=false] (/188.226.60.130:52136) lost connection: You are not whitelisted on this server!
+[20:26:13] [Craft Scheduler Thread - 101/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[20:36:33] [User Authenticator #39/INFO]: UUID of player DJ_Rukia is ef42b859-ebde-3a3c-9e9c-958b3e23f70c
+[20:36:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4c55456e[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:56572): You are not whitelisted on this server!
+[20:36:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c55456e[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:56572) lost connection: You are not whitelisted on this server!
+[20:37:31] [User Authenticator #40/INFO]: UUID of player DJ_Rukia is ef42b859-ebde-3a3c-9e9c-958b3e23f70c
+[20:37:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@43fa0eda[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17331): You are not whitelisted on this server!
+[20:37:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@43fa0eda[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17331) lost connection: You are not whitelisted on this server!
+[20:38:36] [User Authenticator #41/INFO]: UUID of player DJ_Rukia is ef42b859-ebde-3a3c-9e9c-958b3e23f70c
+[20:38:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6958cb2a[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17361): You are not whitelisted on this server!
+[20:38:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@6958cb2a[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17361) lost connection: You are not whitelisted on this server!
+[20:39:09] [User Authenticator #42/INFO]: UUID of player DJ_Rukia is ef42b859-ebde-3a3c-9e9c-958b3e23f70c
+[20:39:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@b6f6a14[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17383): You are not whitelisted on this server!
+[20:39:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@b6f6a14[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17383) lost connection: You are not whitelisted on this server!
+[20:40:31] [User Authenticator #43/INFO]: UUID of player DJ_Rukia is ef42b859-ebde-3a3c-9e9c-958b3e23f70c
+[20:40:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@262ef2f5[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:56652): You are not whitelisted on this server!
+[20:40:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@262ef2f5[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:56652) lost connection: You are not whitelisted on this server!
+[20:40:58] [User Authenticator #44/INFO]: UUID of player DJ_Rukia is ef42b859-ebde-3a3c-9e9c-958b3e23f70c
+[20:40:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@60e7cdb8[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17411): You are not whitelisted on this server!
+[20:40:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@60e7cdb8[id=ef42b859-ebde-3a3c-9e9c-958b3e23f70c,name=DJ_Rukia,properties={},legacy=false] (/92.101.34.209:17411) lost connection: You are not whitelisted on this server!
+[20:56:13] [Craft Scheduler Thread - 102/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[21:05:40] [User Authenticator #45/INFO]: UUID of player AlexWaster is f69e6c20-2123-3979-a08c-291260becb5a
+[21:05:40] [Server thread/INFO]: AlexWaster[/31.129.209.245:1154] logged in with entity id 11860 at ([world]9863.149780913122, 72.0, -12034.382625649752)
+[21:10:24] [Server thread/INFO]: AlexWaster lost connection: Disconnected
+[21:10:24] [Server thread/INFO]: AlexWaster left the game
+[21:12:54] [User Authenticator #46/INFO]: UUID of player AlexWaster is f69e6c20-2123-3979-a08c-291260becb5a
+[21:12:54] [Server thread/INFO]: AlexWaster[/31.129.209.245:5267] logged in with entity id 12297 at ([world]9877.980574494528, 77.0, -12027.837188440752)
+[21:16:07] [Server thread/INFO]: AlexWaster lost connection: Disconnected
+[21:16:07] [Server thread/INFO]: AlexWaster left the game
+[21:26:13] [Craft Scheduler Thread - 103/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[21:56:13] [Craft Scheduler Thread - 104/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[22:26:13] [Craft Scheduler Thread - 105/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[22:56:13] [Craft Scheduler Thread - 106/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[23:26:13] [Craft Scheduler Thread - 107/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[23:56:13] [Craft Scheduler Thread - 108/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.

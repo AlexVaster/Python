@@ -1,0 +1,442 @@
+[00:16:21] [Craft Scheduler Thread - 15/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[00:46:21] [Craft Scheduler Thread - 16/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 13ms.
+[01:16:21] [Craft Scheduler Thread - 17/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 7ms.
+[01:46:21] [Craft Scheduler Thread - 18/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[02:16:21] [Craft Scheduler Thread - 19/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[02:46:21] [Craft Scheduler Thread - 20/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[03:16:21] [Craft Scheduler Thread - 21/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[03:46:21] [Craft Scheduler Thread - 22/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[04:16:21] [Craft Scheduler Thread - 23/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[04:46:21] [Craft Scheduler Thread - 24/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[05:16:21] [Craft Scheduler Thread - 25/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[05:46:21] [Craft Scheduler Thread - 26/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[06:16:21] [Craft Scheduler Thread - 27/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[06:46:21] [Craft Scheduler Thread - 28/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[07:16:21] [Craft Scheduler Thread - 29/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[07:46:21] [Craft Scheduler Thread - 30/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[08:16:21] [Craft Scheduler Thread - 31/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[08:46:21] [Craft Scheduler Thread - 32/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[09:16:21] [Craft Scheduler Thread - 33/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[09:46:21] [Craft Scheduler Thread - 34/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[10:16:21] [Craft Scheduler Thread - 35/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[10:46:21] [Craft Scheduler Thread - 36/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[11:16:21] [Craft Scheduler Thread - 37/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[11:46:21] [Craft Scheduler Thread - 38/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[12:16:21] [Craft Scheduler Thread - 39/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[12:25:50] [User Authenticator #1/INFO]: UUID of player HurricaaneJJ is 0c63cd95-f287-3aec-bf3d-1e73af7e456d
+[12:25:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7bcb3cac[id=0c63cd95-f287-3aec-bf3d-1e73af7e456d,name=HurricaaneJJ,properties={},legacy=false] (/37.99.119.6:24924): You are not whitelisted on this server!
+[12:25:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bcb3cac[id=0c63cd95-f287-3aec-bf3d-1e73af7e456d,name=HurricaaneJJ,properties={},legacy=false] (/37.99.119.6:24924) lost connection: You are not whitelisted on this server!
+[12:46:21] [Craft Scheduler Thread - 40/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[13:16:21] [Craft Scheduler Thread - 41/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[13:46:21] [Craft Scheduler Thread - 42/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[14:16:21] [Craft Scheduler Thread - 43/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[14:46:21] [Craft Scheduler Thread - 44/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[15:16:21] [Craft Scheduler Thread - 45/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[15:46:21] [Craft Scheduler Thread - 46/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[16:16:21] [Craft Scheduler Thread - 47/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[16:46:21] [Craft Scheduler Thread - 48/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[17:16:21] [Craft Scheduler Thread - 49/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[17:31:31] [User Authenticator #2/INFO]: UUID of player Black_Viking is da973350-0ad9-369b-bf45-c067c4928a49
+[17:31:31] [Server thread/INFO]: Black_Viking[/31.129.208.200:3324] logged in with entity id 87 at ([world]-1939.9632085482542, 94.0, 2683.4444560504453)
+[17:32:36] [Server thread/INFO]: Black_Viking lost connection: Disconnected
+[17:32:36] [Server thread/INFO]: Black_Viking left the game
+[17:34:09] [User Authenticator #3/INFO]: UUID of player Black_Viking is da973350-0ad9-369b-bf45-c067c4928a49
+[17:34:09] [Server thread/INFO]: Black_Viking[/31.129.208.200:4023] logged in with entity id 477 at ([world]-1995.699999988079, 94.0, 2725.699999988079)
+[17:36:50] [User Authenticator #4/INFO]: UUID of player SonHodor is b240da74-32ae-32b7-89c2-af8d4563fab0
+[17:36:50] [Server thread/INFO]: SonHodor[/31.129.195.7:6923] logged in with entity id 1274 at ([world]-2949.2475439314603, 71.0, 2207.6967431365756)
+[17:42:19] [Async Chat Thread - #0/INFO]: <SonHodor> так, я наверху
+[17:44:37] [Async Chat Thread - #1/INFO]: <Black_Viking> бля
+[17:44:45] [Async Chat Thread - #1/INFO]: <Black_Viking> издеваешься типа?
+[17:44:51] [Async Chat Thread - #1/INFO]: <SonHodor> ну
+[17:44:57] [Async Chat Thread - #1/INFO]: <SonHodor> у меня губки есть
+[17:45:03] [Async Chat Thread - #1/INFO]: <Black_Viking> да не
+[17:45:51] [Async Chat Thread - #1/INFO]: <Black_Viking> ну если тут просто комнаты делать и кориды со стеклянным потолком, то тип норм
+[17:46:13] [Async Chat Thread - #1/INFO]: <SonHodor> но?
+[17:46:21] [Craft Scheduler Thread - 50/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[17:46:38] [Async Chat Thread - #1/INFO]: <Black_Viking> *записывает координаты*
+[17:46:54] [Async Chat Thread - #1/INFO]: <SonHodor> хех
+[17:48:10] [Async Chat Thread - #2/INFO]: <Black_Viking> портал бы сделать
+[17:48:22] [Async Chat Thread - #2/INFO]: <SonHodor> да понял я уже
+[17:48:23] [Server thread/INFO]: Black_Viking lost connection: Disconnected
+[17:48:23] [Server thread/INFO]: Black_Viking left the game
+[17:49:24] [User Authenticator #5/INFO]: UUID of player Black_Viking is da973350-0ad9-369b-bf45-c067c4928a49
+[17:49:24] [Server thread/INFO]: Black_Viking[/31.129.208.200:6193] logged in with entity id 2726 at ([world]-1580.1658591785972, 73.0, 2979.0138476391435)
+[17:49:35] [Async Chat Thread - #3/INFO]: <Black_Viking> как я опять сид проебал
+[17:52:05] [Async Chat Thread - #4/INFO]: <SonHodor> коорды скажи кудапортал будет
+[17:52:58] [Async Chat Thread - #4/INFO]: <Black_Viking> -1579 2978
+[18:11:27] [Async Chat Thread - #5/INFO]: <SonHodor> ага
+[18:11:33] [Async Chat Thread - #5/INFO]: <Black_Viking> ?
+[18:11:39] [Async Chat Thread - #5/INFO]: <SonHodor> ты где
+[18:12:06] [Async Chat Thread - #5/INFO]: <Black_Viking> у себя
+[18:12:11] [Async Chat Thread - #5/INFO]: <SonHodor> ясно
+[18:12:16] [Async Chat Thread - #5/INFO]: <SonHodor> я тут портал сделал
+[18:12:25] [Async Chat Thread - #5/INFO]: <Black_Viking> маладес
+[18:12:28] [Async Chat Thread - #5/INFO]: <SonHodor> оказалось даже ближе чем я думал
+[18:12:59] [Async Chat Thread - #5/INFO]: <Black_Viking> а я тут случайно трущобы делать начал
+[18:13:40] [User Authenticator #6/INFO]: UUID of player MitroFlash is 0afd9dd3-902a-3a6b-b6fa-cb3a56444bc1
+[18:13:40] [Server thread/INFO]: MitroFlash[/31.129.194.238:3553] logged in with entity id 5392 at ([world]-2050.1122869744922, 87.0, 2715.7125977413557)
+[18:13:46] [Async Chat Thread - #5/INFO]: <Black_Viking> ох ебать
+[18:14:07] [Async Chat Thread - #5/INFO]: <MitroFlash> хы
+[18:14:22] [Server thread/INFO]: [J] MitroFlash was shot by Skeleton
+[18:14:23] [Async Chat Thread - #5/INFO]: <Black_Viking> ты чего это
+[18:15:16] [Async Chat Thread - #5/INFO]: <SonHodor> так
+[18:15:27] [Async Chat Thread - #5/INFO]: <SonHodor> Ну вход на дачу официально готов
+[18:15:34] [Async Chat Thread - #5/INFO]: <MitroFlash> ?
+[18:15:52] [Async Chat Thread - #5/INFO]: <Black_Viking> на мою чтоль?
+[18:16:03] [Async Chat Thread - #5/INFO]: <SonHodor> в то место, где гачи застройку делать будем
+[18:16:11] [Async Chat Thread - #5/INFO]: <Black_Viking> а
+[18:16:21] [Craft Scheduler Thread - 51/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[18:16:24] [Async Chat Thread - #5/INFO]: <Black_Viking> то есть это будет гачи застройка всё таки
+[18:16:32] [Async Chat Thread - #5/INFO]: <SonHodor> Да
+[18:16:42] [Async Chat Thread - #5/INFO]: <MitroFlash> как это понять?
+[18:16:49] [Async Chat Thread - #5/INFO]: <Black_Viking> я думал ты просто мне место показал где я приму свой же вызов
+[18:16:57] [Async Chat Thread - #5/INFO]: <SonHodor> Сань, ты у себя?
+[18:17:02] [Async Chat Thread - #5/INFO]: <MitroFlash> да
+[18:17:16] [Async Chat Thread - #5/INFO]: <Black_Viking> гачи застройка, это место где будут житьт несколько человек рядом
+[18:17:37] [Async Chat Thread - #5/INFO]: <MitroFlash> вы уже тип место выбрали?
+[18:17:40] [Async Chat Thread - #5/INFO]: <SonHodor> ага
+[18:19:12] [Async Chat Thread - #6/INFO]: <MitroFlash> лошади опасны?
+[18:19:17] [Async Chat Thread - #6/INFO]: <SonHodor> нет
+[18:19:36] [Async Chat Thread - #6/INFO]: <Black_Viking> ещё полчаса
+[18:19:47] [Async Chat Thread - #6/INFO]: <Black_Viking> и тут можно спокойно будет заблудиться
+[18:19:48] [Async Chat Thread - #6/INFO]: <MitroFlash> вроде всё?
+[18:19:58] [Async Chat Thread - #6/INFO]: <SonHodor> Вроде да
+[18:21:03] [Async Chat Thread - #7/INFO]: <Black_Viking> главное лишнего не накопать, а то придется много чего перестроить
+[18:21:59] [Async Chat Thread - #7/INFO]: <MitroFlash> думаю, где б рощу адекватную сделать
+[18:22:52] [Async Chat Thread - #7/INFO]: <SonHodor> хм
+[18:23:00] [Async Chat Thread - #7/INFO]: <Black_Viking> пизда
+[18:23:47] [Async Chat Thread - #7/INFO]: <Black_Viking> я прокопался к предполагаемому месту тюрьмы
+[18:23:55] [Async Chat Thread - #7/INFO]: <MitroFlash> тюрьмы?
+[18:24:08] [Async Chat Thread - #7/INFO]: <Black_Viking> по плану она должна быть там
+[18:24:22] [Async Chat Thread - #7/INFO]: <Black_Viking> а я трущобы к ней провел
+[18:29:30] [Async Chat Thread - #8/INFO]: <MitroFlash> а далеко вы эт место нашли
+[18:29:35] [Async Chat Thread - #8/INFO]: <SonHodor> неа
+[18:29:36] [Async Chat Thread - #8/INFO]: <MitroFlash> и по биому как?
+[18:29:38] [Async Chat Thread - #8/INFO]: <Black_Viking> есть портал
+[18:29:44] [Async Chat Thread - #8/INFO]: <SonHodor> джунгли
+[18:29:52] [Async Chat Thread - #8/INFO]: <MitroFlash> хм
+[18:30:34] [Server thread/INFO]: Sir SonHodor has made the advancement [Ol' Betsy]
+[18:30:35] [Async Chat Thread - #8/INFO]: <Black_Viking> я пидор по твоему?
+[18:30:41] [Async Chat Thread - #8/INFO]: <SonHodor> Хех
+[18:30:44] [Async Chat Thread - #8/INFO]: <SonHodor> именно
+[18:31:22] [Server thread/INFO]: Вонни Black_Viking was shot by Sir SonHodor using [smart]
+[18:31:29] [Async Chat Thread - #8/INFO]: <SonHodor> ez
+[18:31:30] [Async Chat Thread - #8/INFO]: <MitroFlash> где вы там копаетесь-то
+[18:31:56] [Async Chat Thread - #8/INFO]: <SonHodor> Ваня ко мне пиршел, отказался от подарка и начал флексить ереванами
+[18:32:36] [Async Chat Thread - #8/INFO]: <Black_Viking> это пидорский подарок
+[18:32:51] [Server thread/WARN]: Black_Viking moved too quickly! -7.823603741672969,3.0,-6.257122609941234
+[18:34:00] [Async Chat Thread - #9/INFO]: <SonHodor> пойдёмте портал покажу сразу
+[18:34:34] [Async Chat Thread - #9/INFO]: <Black_Viking> у меня еды нет
+[18:35:27] [Async Chat Thread - #9/INFO]: <Black_Viking> э
+[18:35:32] [Async Chat Thread - #9/INFO]: <Black_Viking> чо смотреш
+[18:36:27] [Async Chat Thread - #9/INFO]: <SonHodor> лох
+[18:36:29] [Async Chat Thread - #9/INFO]: <SonHodor> смари
+[18:37:00] [Async Chat Thread - #9/INFO]: <MitroFlash> у меня так печет от того, что бабмбук растет рандомно
+[18:37:08] [Async Chat Thread - #9/INFO]: <MitroFlash> как и подсолнухи
+[18:37:09] [Async Chat Thread - #9/INFO]: <SonHodor> а, типо не ровно
+[18:37:22] [Async Chat Thread - #9/INFO]: <SonHodor> да как и всё, впринципе
+[18:37:31] [Async Chat Thread - #9/INFO]: <SonHodor> кроме пшеницы
+[18:37:45] [Async Chat Thread - #9/INFO]: <Black_Viking> уррра
+[18:38:00] [Async Chat Thread - #9/INFO]: <SonHodor> что?
+[18:38:15] [Async Chat Thread - #9/INFO]: <Black_Viking> получил пиздюлей своей стрелой
+[18:39:32] [Server thread/INFO]: Sir SonHodor was shot by Вонни Black_Viking
+[18:39:42] [Async Chat Thread - #10/INFO]: <SonHodor> sooqa
+[18:39:50] [Async Chat Thread - #10/INFO]: <SonHodor> знаешь, где я
+[18:39:57] [Async Chat Thread - #10/INFO]: <Black_Viking> догадываюсь
+[18:40:03] [Async Chat Thread - #10/INFO]: <Black_Viking> там вы
+[18:40:10] [Async Chat Thread - #10/INFO]: <Black_Viking> в сундуках лодки лежат
+[18:40:28] [Async Chat Thread - #10/INFO]: <Black_Viking> а, хотя стоп, есть же портал
+[18:42:41] [Server thread/INFO]: Sir SonHodor fell from a high place
+[18:42:50] [Async Chat Thread - #11/INFO]: <Black_Viking> ты бы знал с каким я ехидным лицом сидел
+[18:42:55] [Async Chat Thread - #11/INFO]: <Black_Viking> бля, ору
+[18:45:44] [Async Chat Thread - #12/INFO]: <Black_Viking> оп
+[18:45:50] [Async Chat Thread - #12/INFO]: <Black_Viking> тут возле меня эти
+[18:45:54] [Async Chat Thread - #12/INFO]: <Black_Viking> пидарасы
+[18:46:08] [Async Chat Thread - #12/INFO]: <SonHodor> таааак
+[18:46:10] [Async Chat Thread - #12/INFO]: <SonHodor> где
+[18:46:17] [Async Chat Thread - #12/INFO]: <Black_Viking> иди к порталу
+[18:46:21] [Craft Scheduler Thread - 52/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[18:46:34] [Async Chat Thread - #12/INFO]: <SonHodor> к чьему
+[18:46:38] [Async Chat Thread - #12/INFO]: <Black_Viking> моему
+[18:47:26] [Async Chat Thread - #12/INFO]: <SonHodor> oof
+[18:48:04] [Async Chat Thread - #12/INFO]: <SonHodor> у тебя там лошадь костяная наверху
+[18:48:11] [Async Chat Thread - #12/INFO]: <Black_Viking> их там штук 5\
+[18:48:31] [Async Chat Thread - #12/INFO]: <SonHodor> так
+[18:48:36] [Async Chat Thread - #12/INFO]: <SonHodor> пошли к порталу то
+[18:48:51] [Async Chat Thread - #12/INFO]: <MitroFlash> жду дня
+[18:49:15] [Async Chat Thread - #12/INFO]: <Black_Viking> ебать он быстро растет
+[18:50:21] [Async Chat Thread - #13/INFO]: <MitroFlash> уже чувствую, как дом ветшает
+[18:50:27] [Async Chat Thread - #13/INFO]: <Black_Viking> ниток то
+[18:50:29] [Async Chat Thread - #13/INFO]: <Black_Viking> нет
+[18:50:37] [Async Chat Thread - #13/INFO]: <SonHodor> а
+[18:50:42] [Async Chat Thread - #13/INFO]: <SonHodor> стасян, точно
+[18:50:52] [Async Chat Thread - #13/INFO]: <SonHodor> иди в ад
+[18:51:17] [Async Chat Thread - #13/INFO]: <SonHodor> и к скелетам
+[18:51:57] [Async Chat Thread - #13/INFO]: <Black_Viking> тебе далось проклятие?
+[18:52:02] [Async Chat Thread - #13/INFO]: <SonHodor> неа
+[18:53:15] [Async Chat Thread - #14/INFO]: <SonHodor> е
+[18:54:28] [Async Chat Thread - #15/INFO]: <SonHodor> так
+[18:54:32] [Async Chat Thread - #15/INFO]: <SonHodor> ты иденшь?
+[18:54:53] [Async Chat Thread - #15/INFO]: <SonHodor> я хочу показать где паеки
+[18:54:57] [Async Chat Thread - #15/INFO]: <SonHodor> пауки
+[18:56:19] [Async Chat Thread - #16/INFO]: <Black_Viking> а ты где
+[18:56:29] [Async Chat Thread - #16/INFO]: <Black_Viking> пизда
+[18:56:30] [Async Chat Thread - #16/INFO]: <SonHodor> иди в ад
+[18:56:35] [Async Chat Thread - #16/INFO]: <SonHodor> и к скелетам
+[18:56:56] [Async Chat Thread - #16/INFO]: <Black_Viking> тут зажигалка нужна, в санином портале в аду крипер взровался
+[18:58:18] [Async Chat Thread - #17/INFO]: <MitroFlash> хочу себе флаг
+[18:58:27] [Async Chat Thread - #17/INFO]: <MitroFlash> не перееду, пока не будет флага
+[18:58:31] [Async Chat Thread - #17/INFO]: <SonHodor> тоже задумался
+[18:58:42] [Async Chat Thread - #17/INFO]: <SonHodor> короче ваня
+[18:58:45] [Async Chat Thread - #17/INFO]: <SonHodor> удачи
+[18:58:55] [Async Chat Thread - #17/INFO]: <MitroFlash> нам нужны флаги
+[18:58:56] [Async Chat Thread - #17/INFO]: <SonHodor> я пошел флаг делать
+[18:58:59] [Async Chat Thread - #17/INFO]: <MitroFlash> вот у тебя есть
+[18:59:12] [Async Chat Thread - #17/INFO]: <Black_Viking> у меня есть, я знаю
+[18:59:30] [Async Chat Thread - #17/INFO]: <MitroFlash> как их делать-то
+[18:59:35] [Async Chat Thread - #17/INFO]: <MitroFlash> что нужно?
+[18:59:38] [Async Chat Thread - #17/INFO]: <SonHodor> 6 шерсти
+[18:59:42] [Async Chat Thread - #17/INFO]: <SonHodor> и палка
+[18:59:44] [Async Chat Thread - #17/INFO]: <Black_Viking> делаешь ткацкий станок
+[18:59:55] [Async Chat Thread - #17/INFO]: <MitroFlash> я у тебя на ткацком сделаю
+[19:00:00] [Async Chat Thread - #17/INFO]: <Black_Viking> или так
+[19:00:19] [Async Chat Thread - #17/INFO]: <MitroFlash> а потом
+[19:00:23] [Server thread/INFO]: Sir SonHodor was shot by Skeleton
+[19:00:32] [Async Chat Thread - #17/INFO]: <SonHodor> лол
+[19:00:35] [Async Chat Thread - #17/INFO]: <Black_Viking> делаешь флаг нужного цвета
+[19:00:45] [Async Chat Thread - #17/INFO]: <Black_Viking> из шерсти нужного цвета
+[19:00:52] [Async Chat Thread - #17/INFO]: <MitroFlash> хм
+[19:01:09] [Async Chat Thread - #17/INFO]: <Black_Viking> берешь красители, какие хочешь и в ткацком станке делаешь какие хочешь рисунки с помощбю
+[19:01:13] [Async Chat Thread - #17/INFO]: <Black_Viking> красителей
+[19:01:24] [Server thread/WARN]: SonHodor moved too quickly! 0.023822431623955254,0.0,15.521229544156995
+[19:03:09] [Async Chat Thread - #18/INFO]: <Black_Viking> а если хочешь добавить узор такой же как у меня например, то делаешь шаблон узора
+[19:03:25] [Server thread/INFO]: Sir SonHodor was shot by Skeleton
+[19:03:40] [Async Chat Thread - #18/INFO]: <Black_Viking> можно ещё общий флаг сделать, типа нашей коалиции
+[19:03:49] [Async Chat Thread - #18/INFO]: <MitroFlash> нужен красный краситель
+[19:08:24] [Async Chat Thread - #19/INFO]: <Black_Viking> эээ
+[19:08:25] [Async Chat Thread - #19/INFO]: <Black_Viking> дядя
+[19:08:35] [Async Chat Thread - #19/INFO]: <MitroFlash> &
+[19:08:47] [Async Chat Thread - #19/INFO]: <Black_Viking> я тебе твою прелесть забыл отдать
+[19:09:15] [Async Chat Thread - #19/INFO]: <MitroFlash> ты мне?
+[19:09:19] [Async Chat Thread - #19/INFO]: <Black_Viking> не
+[19:09:23] [Async Chat Thread - #19/INFO]: <MitroFlash> (
+[19:09:24] [Async Chat Thread - #19/INFO]: <Black_Viking> уф
+[19:11:19] [Server thread/INFO]: Sir SonHodor was fireballed by Ghast
+[19:11:54] [Async Chat Thread - #20/INFO]: <Black_Viking> хвались флагом
+[19:12:02] [Async Chat Thread - #20/INFO]: <MitroFlash> так я не сделал
+[19:16:21] [Craft Scheduler Thread - 53/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[19:17:34] [Async Chat Thread - #21/INFO]: <MitroFlash> я думал, тут сам рисуешь
+[19:17:44] [Async Chat Thread - #21/INFO]: <MitroFlash> а тут игра, хреначу слои
+[19:20:33] [Async Chat Thread - #22/INFO]: <MitroFlash> как ты сделал шестеренку?
+[19:20:51] [Async Chat Thread - #22/INFO]: <MitroFlash> на флаге
+[19:20:58] [Async Chat Thread - #22/INFO]: <Black_Viking> узор цветка
+[19:21:08] [Async Chat Thread - #22/INFO]: <MitroFlash> а где узоры смотреть
+[19:21:39] [Async Chat Thread - #22/INFO]: <Black_Viking> там их немного и узоры эти делать надо
+[19:21:44] [Async Chat Thread - #22/INFO]: <Black_Viking> они тип как шаблоны
+[19:21:53] [Async Chat Thread - #22/INFO]: <MitroFlash> а из чего делать
+[19:22:13] [Async Chat Thread - #22/INFO]: <Black_Viking> предмет из которого можно сделать узор+ бумага
+[19:22:55] [Async Chat Thread - #22/INFO]: <Black_Viking> поищи на вики майна статью про узоры, там их штук 7 гдето
+[19:24:29] [Async Chat Thread - #23/INFO]: <Black_Viking> валер, у тебя как успехи с флагом?
+[19:24:37] [Async Chat Thread - #23/INFO]: <SonHodor> думаю
+[19:26:08] [Server thread/WARN]: Black_Viking moved too quickly! 8.297398335637808,0.0,-5.746423316846176
+[19:27:48] [Async Chat Thread - #24/INFO]: <Black_Viking> можете гуидесы посмотреть
+[19:28:20] [Async Chat Thread - #24/INFO]: <MitroFlash> ой блы
+[19:28:29] [Async Chat Thread - #24/INFO]: <MitroFlash> ночью поразбираюсь короче
+[19:28:34] [Async Chat Thread - #24/INFO]: <MitroFlash> ща пока офф
+[19:28:35] [Async Chat Thread - #24/INFO]: <Black_Viking> типа, там со слоямиможно много интересного сделать
+[19:28:47] [Async Chat Thread - #24/INFO]: <Black_Viking> типа, у меня примитивный достаточно флаг
+[19:29:09] [Async Chat Thread - #24/INFO]: <MitroFlash> спасибо
+[19:29:18] [Server thread/INFO]: MitroFlash lost connection: Disconnected
+[19:29:18] [Server thread/INFO]: MitroFlash left the game
+[19:30:12] [Async Chat Thread - #25/INFO]: <SonHodor> а как помыть флаг?
+[19:30:16] [Async Chat Thread - #25/INFO]: <SonHodor> можно вообще?
+[19:30:21] [Async Chat Thread - #25/INFO]: <Black_Viking> в смысле
+[19:30:26] [Async Chat Thread - #25/INFO]: <SonHodor> от всего
+[19:30:56] [Async Chat Thread - #25/INFO]: <Black_Viking> хз, только если своми же цветом поверх рисунка
+[19:31:05] [Async Chat Thread - #25/INFO]: <Black_Viking> наверно так получится
+[19:36:31] [Async Chat Thread - #26/INFO]: <Black_Viking> афк
+[19:45:52] [Async Chat Thread - #27/INFO]: <Black_Viking> ууу
+[19:46:01] [Async Chat Thread - #27/INFO]: <Black_Viking> неплохо
+[19:46:21] [Craft Scheduler Thread - 54/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[19:46:22] [Async Chat Thread - #27/INFO]: <Black_Viking> я там парочку повесил
+[19:46:33] [Async Chat Thread - #27/INFO]: <SonHodor> а что ты себе края не сделаешь чётче?
+[19:46:56] [Async Chat Thread - #27/INFO]: <Black_Viking> контур?
+[19:46:59] [Async Chat Thread - #27/INFO]: <SonHodor> ага
+[19:50:05] [Async Chat Thread - #28/INFO]: <SonHodor> Ещё можно короче
+[19:50:16] [Async Chat Thread - #28/INFO]: <SonHodor> есть черный банер?
+[19:51:06] [Async Chat Thread - #28/INFO]: <SonHodor> есть черный банер?
+[19:51:23] [Async Chat Thread - #28/INFO]: <Black_Viking> палки есть?
+[19:51:58] [Async Chat Thread - #28/INFO]: <SonHodor> краситель красный и тарфарет солнца
+[19:52:21] [Async Chat Thread - #28/INFO]: <Black_Viking> ну хз, тип
+[19:52:33] [Async Chat Thread - #28/INFO]: <Black_Viking> на счет контура солнца
+[19:54:58] [Async Chat Thread - #29/INFO]: <Black_Viking> и
+[19:55:14] [Async Chat Thread - #29/INFO]: <SonHodor> ну тип контур немного красным подсвечивается
+[19:55:15] [Async Chat Thread - #29/INFO]: <Black_Viking> узор пожалуйста
+[19:55:19] [Async Chat Thread - #29/INFO]: <SonHodor> короче в пизду
+[19:55:33] [Async Chat Thread - #29/INFO]: <SonHodor> го портал покажу
+[19:55:38] [Async Chat Thread - #29/INFO]: <Black_Viking> ща
+[19:57:49] [Async Chat Thread - #30/INFO]: <Black_Viking> щищ\
+[19:58:10] [Async Chat Thread - #30/INFO]: <Black_Viking> что думаешь на счет флага коалиции?
+[19:58:26] [Async Chat Thread - #30/INFO]: <SonHodor> ты уже 2 моих флага взял
+[19:58:33] [Async Chat Thread - #30/INFO]: <SonHodor> окей, 1
+[19:58:40] [Async Chat Thread - #30/INFO]: <Black_Viking> ни одного
+[19:58:48] [Async Chat Thread - #30/INFO]: <SonHodor> да сложно будет сделать3
+[19:58:59] [Async Chat Thread - #30/INFO]: <SonHodor> с этим ограницением в 6 слоёв
+[19:59:14] [Async Chat Thread - #30/INFO]: <Black_Viking> нет, общий тип
+[19:59:15] [Async Chat Thread - #30/INFO]: <SonHodor> всё
+[19:59:18] [Async Chat Thread - #30/INFO]: <SonHodor> бб
+[19:59:19] [Server thread/INFO]: SonHodor lost connection: Disconnected
+[19:59:19] [Server thread/INFO]: SonHodor left the game
+[20:09:37] [Server thread/INFO]: Black_Viking lost connection: Disconnected
+[20:09:37] [Server thread/INFO]: Black_Viking left the game
+[20:16:21] [Craft Scheduler Thread - 55/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 0ms.
+[20:46:21] [Craft Scheduler Thread - 56/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[21:16:21] [Craft Scheduler Thread - 57/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[21:46:21] [Craft Scheduler Thread - 58/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[22:16:21] [Craft Scheduler Thread - 59/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[22:30:15] [User Authenticator #7/INFO]: UUID of player MitroFlash is 0afd9dd3-902a-3a6b-b6fa-cb3a56444bc1
+[22:30:15] [Server thread/INFO]: MitroFlash[/31.129.194.238:6147] logged in with entity id 20119 at ([world]-2020.2868074454864, 82.0, 2710.4134789716536)
+[22:38:10] [User Authenticator #8/INFO]: UUID of player SonHodor is b240da74-32ae-32b7-89c2-af8d4563fab0
+[22:38:10] [Server thread/INFO]: SonHodor[/31.129.195.7:5318] logged in with entity id 20623 at ([world]-1569.3071306980241, 65.0, 2980.3308590070305)
+[22:38:13] [User Authenticator #9/INFO]: UUID of player Black_Viking is da973350-0ad9-369b-bf45-c067c4928a49
+[22:38:13] [Server thread/INFO]: Black_Viking[/31.129.208.200:6222] logged in with entity id 20851 at ([world]-1954.699999988079, 91.0, 2685.665380498211)
+[22:38:40] [Async Chat Thread - #31/INFO]: <Black_Viking> я пришел\
+[22:38:45] [Async Chat Thread - #31/INFO]: <Black_Viking> здрасьте
+[22:38:49] [Async Chat Thread - #31/INFO]: <MitroFlash> хихи
+[22:38:50] [Async Chat Thread - #31/INFO]: <Black_Viking> кто где
+[22:39:06] [Async Chat Thread - #31/INFO]: <SonHodor> на гачи даче
+[22:39:17] [Async Chat Thread - #31/INFO]: <SonHodor> бегу к сане
+[22:39:18] [Async Chat Thread - #31/INFO]: <Black_Viking> а саня у себя
+[22:39:28] [Async Chat Thread - #31/INFO]: <Black_Viking> уже вижу
+[22:40:20] [Async Chat Thread - #31/INFO]: <MitroFlash> хорошо
+[22:40:41] [Async Chat Thread - #31/INFO]: <Black_Viking> сань, как флаг
+[22:40:55] [Async Chat Thread - #31/INFO]: <MitroFlash> какой?
+[22:40:58] [Async Chat Thread - #31/INFO]: <Black_Viking> твой
+[22:41:05] [Async Chat Thread - #31/INFO]: <MitroFlash> еще не делал
+[22:42:58] [Async Chat Thread - #32/INFO]: <Black_Viking> бля армянин
+[22:43:10] [Async Chat Thread - #32/INFO]: <MitroFlash> ?
+[22:43:18] [Async Chat Thread - #32/INFO]: <Black_Viking> эндермен
+[22:46:21] [Craft Scheduler Thread - 60/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[22:50:59] [Async Chat Thread - #33/INFO]: <Black_Viking> еееей
+[22:51:03] [Async Chat Thread - #33/INFO]: <SonHodor> ?
+[22:51:06] [Async Chat Thread - #33/INFO]: <Black_Viking> первая тюремная камера
+[22:57:17] [Async Chat Thread - #34/INFO]: <MitroFlash> хз вообще, что делать
+[22:57:38] [Async Chat Thread - #34/INFO]: <MitroFlash> сделал себе пробные обои
+[22:57:47] [Async Chat Thread - #34/INFO]: <MitroFlash> но не флаг
+[22:58:29] [Async Chat Thread - #34/INFO]: <SonHodor> обои?
+[22:58:46] [Async Chat Thread - #34/INFO]: <MitroFlash> я у Вани, хошь приходи, покажу
+[22:59:36] [Async Chat Thread - #34/INFO]: <SonHodor> прикольно
+[22:59:59] [Async Chat Thread - #34/INFO]: <SonHodor> пойдём гачи дачу покажу
+[23:00:55] [Async Chat Thread - #34/INFO]: <MitroFlash> ща, сдеалю и пойдем
+[23:01:00] [Async Chat Thread - #34/INFO]: <Black_Viking> я пришел смотреть обои
+[23:01:51] [Async Chat Thread - #34/INFO]: <Black_Viking> уф, я почему то ждал от кого то из вас такой голубой-бирюзовый цвет
+[23:02:12] [Async Chat Thread - #34/INFO]: <MitroFlash> ну от меня голубой ща будет
+[23:02:17] [Async Chat Thread - #34/INFO]: <SonHodor> Я как в гта сделал
+[23:02:25] [Async Chat Thread - #34/INFO]: <SonHodor> серо-бело-оранжевый
+[23:09:18] [Async Chat Thread - #35/INFO]: <MitroFlash> там крипер в метро
+[23:10:32] [Async Chat Thread - #36/INFO]: <MitroFlash> если он взорвется, я не виноват
+[23:10:58] [Async Chat Thread - #36/INFO]: <Black_Viking> де он
+[23:11:39] [Async Chat Thread - #36/INFO]: <Black_Viking> куда крипера дел
+[23:11:43] [Async Chat Thread - #36/INFO]: <Black_Viking> я его не вижу
+[23:11:55] [Async Chat Thread - #36/INFO]: <SonHodor> вы где вообще
+[23:12:02] [Async Chat Thread - #36/INFO]: <Black_Viking> я в аду
+[23:12:07] [Async Chat Thread - #36/INFO]: <Black_Viking> ищу крипера
+[23:12:58] [Async Chat Thread - #36/INFO]: <Black_Viking> бля
+[23:13:11] [Async Chat Thread - #36/INFO]: <Black_Viking> как жить без алмазной кирки?
+[23:13:17] [Async Chat Thread - #36/INFO]: <SonHodor> хз
+[23:13:23] [Async Chat Thread - #36/INFO]: <SonHodor> мне вот хуёво сейчас
+[23:13:34] [Async Chat Thread - #36/INFO]: <Black_Viking> я только сейчас понял что мне нужно копаться вниз
+[23:13:43] [Async Chat Thread - #36/INFO]: <Black_Viking> чтоб себе сделать и зачаровать
+[23:13:45] [Async Chat Thread - #36/INFO]: <SonHodor> еххехех
+[23:14:12] [Async Chat Thread - #36/INFO]: <Black_Viking> мне лень обрыв копать потому что
+[23:14:38] [Async Chat Thread - #36/INFO]: <SonHodor> блин, вань, нам с тобой нужны луки на - к урону
+[23:14:38] [Async Chat Thread - #36/INFO]: <Black_Viking> пихуй железную зачарую
+[23:14:48] [Async Chat Thread - #36/INFO]: <Black_Viking> ?
+[23:14:50] [Async Chat Thread - #36/INFO]: <SonHodor> а то я заебался
+[23:15:02] [Async Chat Thread - #36/INFO]: <SonHodor> постреляться хочется, просто так тыкнуть
+[23:15:16] [Async Chat Thread - #36/INFO]: <MitroFlash> бл
+[23:15:23] [Async Chat Thread - #36/INFO]: <MitroFlash> коричневый краситель
+[23:15:27] [Async Chat Thread - #36/INFO]: <SonHodor> а то сейчас при попадании стрелы у тебя проклянётся ещё 5 поколений вперёд
+[23:15:29] [Async Chat Thread - #36/INFO]: <MitroFlash> хз, есть ли
+[23:15:36] [Async Chat Thread - #36/INFO]: <SonHodor> у меня есть
+[23:15:46] [Async Chat Thread - #36/INFO]: <MitroFlash> я у Вани
+[23:15:59] [Async Chat Thread - #36/INFO]: <Black_Viking> я не понимаю
+[23:16:12] [Async Chat Thread - #36/INFO]: <Black_Viking> ты чего хочешь, сильные луки или наоборот?
+[23:16:21] [Craft Scheduler Thread - 61/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[23:17:21] [Async Chat Thread - #37/INFO]: <SonHodor> бля, их ещё переделать
+[23:18:56] [Async Chat Thread - #38/INFO]: <SonHodor> кажется я проебавса
+[23:21:18] [Async Chat Thread - #39/INFO]: <Black_Viking> и чего ты тут свое говно развесил
+[23:21:28] [Async Chat Thread - #39/INFO]: <SonHodor> где
+[23:21:37] [Async Chat Thread - #39/INFO]: <Black_Viking> рядом с порталом
+[23:22:11] [Async Chat Thread - #39/INFO]: <Black_Viking> убери
+[23:23:39] [Server thread/INFO]: Sir SonHodor was shot by Вонни Black_Viking
+[23:23:46] [Async Chat Thread - #40/INFO]: <SonHodor> найс
+[23:23:52] [Async Chat Thread - #40/INFO]: <SonHodor> ну ты и говно
+[23:28:06] [Async Chat Thread - #41/INFO]: <SonHodor> мне белый больше нравится
+[23:28:11] [Async Chat Thread - #41/INFO]: <MitroFlash> это дерево, если что
+[23:28:20] [Async Chat Thread - #41/INFO]: <SonHodor> Дерево?
+[23:28:24] [Async Chat Thread - #41/INFO]: <MitroFlash> да
+[23:28:36] [Async Chat Thread - #41/INFO]: <SonHodor> Голубое -листва?
+[23:28:47] [Async Chat Thread - #41/INFO]: <MitroFlash> у меня голубые деревья в сеттинге
+[23:29:02] [Async Chat Thread - #41/INFO]: <SonHodor> хм
+[23:29:30] [Async Chat Thread - #41/INFO]: <SonHodor> Ну если это дерево то черный
+[23:29:37] [Async Chat Thread - #41/INFO]: <SonHodor> ВААААААНЬ
+[23:29:42] [Async Chat Thread - #41/INFO]: <Black_Viking> що
+[23:30:19] [Async Chat Thread - #41/INFO]: <Black_Viking> море на западе
+[23:30:29] [Async Chat Thread - #41/INFO]: <Black_Viking> ищи там краситель черный
+[23:30:38] [Async Chat Thread - #41/INFO]: <Black_Viking> я всё на овец потратил
+[23:34:49] [Async Chat Thread - #42/INFO]: <SonHodor> черные нужны?
+[23:37:14] [Async Chat Thread - #43/INFO]: <SonHodor> при
+[23:37:20] [Async Chat Thread - #43/INFO]: <SonHodor> придумал
+[23:37:24] [Async Chat Thread - #43/INFO]: <SonHodor> сука
+[23:37:26] [Async Chat Thread - #43/INFO]: <SonHodor> эн
+[23:37:29] [Async Chat Thread - #43/INFO]: <SonHodor> э
+[23:37:35] [Async Chat Thread - #43/INFO]: <SonHodor> говноооооооооо
+[23:37:39] [Async Chat Thread - #43/INFO]: <SonHodor> энтер
+[23:37:42] [Async Chat Thread - #43/INFO]: <SonHodor> залип
+[23:37:43] [Async Chat Thread - #43/INFO]: <Black_Viking> как думаешь, сколько дерева уйдет на мост до туда
+[23:37:51] [Async Chat Thread - #43/INFO]: <SonHodor> 4
+[23:38:04] [Async Chat Thread - #43/INFO]: <Black_Viking> а если с опорами?
+[23:38:10] [Async Chat Thread - #43/INFO]: <SonHodor> все
+[23:38:14] [Async Chat Thread - #43/INFO]: <SonHodor> вмее
+[23:38:15] [Async Chat Thread - #43/INFO]: <MitroFlash> ну хз хз
+[23:38:19] [Async Chat Thread - #43/INFO]: <Black_Viking> аа
+[23:38:48] [Async Chat Thread - #43/INFO]: <MitroFlash> тест роршаха
+[23:38:56] [Async Chat Thread - #43/INFO]: <Black_Viking> непонятненько
+[23:39:03] [Async Chat Thread - #43/INFO]: <MitroFlash> а тут ничего и нет
+[23:41:25] [Async Chat Thread - #44/INFO]: <SonHodor> еееееееее
+[23:41:41] [Async Chat Thread - #44/INFO]: <SonHodor> знаете, что я сделал?
+[23:41:47] [Async Chat Thread - #44/INFO]: <SonHodor> отрезал часть платы
+[23:41:51] [Async Chat Thread - #44/INFO]: <Black_Viking> хуйню у меня дома
+[23:41:52] [Async Chat Thread - #44/INFO]: <SonHodor> ну как
+[23:42:02] [Async Chat Thread - #44/INFO]: <SonHodor> вход птания на кнопку энтер
+[23:42:10] [Async Chat Thread - #44/INFO]: <SonHodor> ez
+[23:42:42] [Async Chat Thread - #44/INFO]: <SonHodor> Ну у тебя то я дома сделал хуйню, только ты не нашел ещё
+[23:46:21] [Server thread/INFO]: Вонни Black_Viking was shot by Sir SonHodor using [smart]
+[23:46:21] [Craft Scheduler Thread - 62/INFO]: [ServerlistMOTD] Saved userdata into IP_UUID.dat in 1ms.
+[23:46:46] [Async Chat Thread - #45/INFO]: <SonHodor> левый больше всех нравится
+[23:47:04] [Async Chat Thread - #45/INFO]: <Black_Viking> да ля
+[23:47:07] [Async Chat Thread - #45/INFO]: <SonHodor> я сначала подумал что это кролик в водной тюрьме
+[23:47:12] [Async Chat Thread - #45/INFO]: <Black_Viking> только прибежал
+[23:47:14] [Async Chat Thread - #45/INFO]: <SonHodor> хехе
+[23:47:29] [Async Chat Thread - #45/INFO]: <Black_Viking> а остальные?
+[23:47:38] [Async Chat Thread - #45/INFO]: <MitroFlash> да гвно
+[23:47:46] [Async Chat Thread - #45/INFO]: <Black_Viking> дай чекнуть то
+[23:48:36] [Async Chat Thread - #45/INFO]: <Black_Viking> что это за арабские эмираты
+[23:48:38] [Async Chat Thread - #45/INFO]: <SonHodor> правое - дерево
+[23:48:50] [Async Chat Thread - #45/INFO]: <SonHodor> просто голубое
+[23:49:16] [Async Chat Thread - #45/INFO]: <Black_Viking> неплохой вроде, но ты сам решай
+[23:49:18] [Async Chat Thread - #45/INFO]: <SonHodor> каге буншин но джутсу
+[23:49:33] [Async Chat Thread - #45/INFO]: <Black_Viking> а еще у меня нет кирки
+[23:49:37] [Async Chat Thread - #45/INFO]: <Black_Viking> да
+[23:49:39] [Async Chat Thread - #45/INFO]: <Black_Viking> вот
+[23:49:40] [Async Chat Thread - #45/INFO]: <MitroFlash> херня короче
+[23:49:46] [Async Chat Thread - #45/INFO]: <Black_Viking> молодцы
+[23:52:10] [Async Chat Thread - #46/INFO]: <MitroFlash> пока без флага короче
+[23:53:39] [Server thread/INFO]: Sir SonHodor was shot by Вонни Black_Viking
+[23:53:42] [Async Chat Thread - #47/INFO]: <SonHodor> хе
+[23:55:52] [Server thread/INFO]: SonHodor lost connection: Disconnected
+[23:55:52] [Server thread/INFO]: SonHodor left the game
+[23:56:00] [Async Chat Thread - #48/INFO]: <MitroFlash> весь дизайн просрал
+[23:56:22] [Async Chat Thread - #48/INFO]: <Black_Viking> да шо просрал то сразу
+[23:59:16] [Async Chat Thread - #49/INFO]: <Black_Viking> о, джоффри
